@@ -1,0 +1,3 @@
+C:/Users/sedin/OneDrive/Documentos/MEGAsync/cienciasdacomputacao/SOFTWARE BASICO EM C/cmake-build-debug/CMakeFiles/SOFTWARE_BASICO_EM_C.dir
+C:/Users/sedin/OneDrive/Documentos/MEGAsync/cienciasdacomputacao/SOFTWARE BASICO EM C/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/sedin/OneDrive/Documentos/MEGAsync/cienciasdacomputacao/SOFTWARE BASICO EM C/cmake-build-debug/CMakeFiles/rebuild_cache.dir
